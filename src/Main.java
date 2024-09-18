@@ -20,5 +20,6 @@ public class Main {
         String fullName1 = middleName1+firstName1+lastName1;
         fullName1 = fullName1.replace ("ё","е");
         System.out.println("Данные Ф. И. О. сотрудника — "+fullName1);
+
     }
 }
